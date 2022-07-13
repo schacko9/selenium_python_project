@@ -1,0 +1,31 @@
+2022-07-13 10:29:28,124 :INFO : get_add_products :Added to cart: iphone X
+2022-07-13 10:29:28,158 :INFO : get_add_products :Added to cart: Samsung Note 8
+2022-07-13 10:29:28,179 :INFO : get_add_products :Added to cart: Nokia Edge
+2022-07-13 10:29:28,200 :INFO : get_add_products :Added to cart: Blackberry
+2022-07-13 10:29:35,572 :INFO : get_add_products :Added to cart: iphone X
+2022-07-13 10:29:35,572 :INFO : get_add_products :Added to cart: iphone X
+2022-07-13 10:29:40,674 :INFO : get_add_products :Added to cart: iphone X
+2022-07-13 10:29:40,702 :INFO : get_add_products :Added to cart: Samsung Note 8
+2022-07-13 10:29:40,724 :INFO : get_add_products :Added to cart: Nokia Edge
+2022-07-13 10:29:40,745 :INFO : get_add_products :Added to cart: Blackberry
+2022-07-13 10:30:05,122 :INFO : get_credentials :rahulshettyacademy
+2022-07-13 10:30:25,738 :INFO : get_signin :Successful Login Attempt
+2022-07-13 10:30:34,765 :INFO : get_credentials :academy
+2022-07-13 10:30:39,047 :INFO : get_signin_negative :Successful Login Attempt
+2022-07-13 10:43:03,578 :INFO : get_add_products :Added to cart: iphone X
+2022-07-13 10:43:03,619 :INFO : get_add_products :Added to cart: Samsung Note 8
+2022-07-13 10:43:03,647 :INFO : get_add_products :Added to cart: Nokia Edge
+2022-07-13 10:43:03,706 :INFO : get_add_products :Added to cart: Blackberry
+2022-07-13 10:43:05,295 :INFO : get_add_products :Added to cart: iphone X
+2022-07-13 10:43:07,438 :INFO : get_add_products :Added to cart: iphone X
+2022-07-13 10:43:07,509 :INFO : get_add_products :Added to cart: Samsung Note 8
+2022-07-13 10:43:07,564 :INFO : get_add_products :Added to cart: Nokia Edge
+2022-07-13 10:43:07,600 :INFO : get_add_products :Added to cart: Blackberry
+2022-07-13 10:43:25,316 :INFO : get_credentials :academy
+2022-07-13 10:43:29,605 :INFO : get_signin_negative :Successful Login Attempt
+2022-07-13 10:44:02,268 :INFO : get_credentials :rahulshettyacademy
+2022-07-13 10:44:25,750 :INFO : get_signin :Successful Login Attempt
+2022-07-13 10:53:17,509 :INFO : get_add_products :Added to cart: iphone X
+2022-07-13 10:53:17,532 :INFO : get_add_products :Added to cart: Samsung Note 8
+2022-07-13 10:53:17,561 :INFO : get_add_products :Added to cart: Nokia Edge
+2022-07-13 10:53:17,583 :INFO : get_add_products :Added to cart: Blackberry

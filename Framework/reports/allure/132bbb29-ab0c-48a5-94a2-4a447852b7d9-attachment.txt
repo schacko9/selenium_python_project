@@ -1,0 +1,4 @@
+INFO     get_add_products:CheckoutPage.py:170 Added to cart: iphone X
+INFO     get_add_products:CheckoutPage.py:170 Added to cart: Samsung Note 8
+INFO     get_add_products:CheckoutPage.py:170 Added to cart: Nokia Edge
+INFO     get_add_products:CheckoutPage.py:170 Added to cart: Blackberry

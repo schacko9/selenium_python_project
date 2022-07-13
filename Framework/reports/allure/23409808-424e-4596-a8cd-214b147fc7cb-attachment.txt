@@ -1,0 +1,1 @@
+INFO     get_add_products:CheckoutPage.py:170 Added to cart: iphone X
